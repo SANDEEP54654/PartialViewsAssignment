@@ -1,0 +1,9 @@
+﻿@model IEnumerable<FilmListApp.Models.FilmsModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    @Html.Partial("_FilmPartialView", Model)
+</div>

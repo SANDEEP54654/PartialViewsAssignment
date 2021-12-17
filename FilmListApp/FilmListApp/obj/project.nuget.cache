@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7W2oIJDN0I6C9g30is16RKPdF79jq8cgbzNdjETX1O2gE5dT0EZwgF6ezNoZGfYsRudn55G1KAhkxzneylAwkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prashant\\New folder\\FilmListApp\\FilmListApp\\FilmListApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prashant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

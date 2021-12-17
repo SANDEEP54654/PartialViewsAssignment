@@ -1,0 +1,10 @@
+﻿@model IEnumerable<FilmListApp.Models.FilmsModel>
+
+@foreach (var item in Model)
+{
+    <div class="border-dark p-2 m-1" style="border-style:double">
+        <h2>@Html.DisplayFor(modelItem => item.Title)</h2>
+        <a>@Html.DisplayFor(modelItem => item.Duration)</a>
+        <p>@Html.DisplayFor(modelItem => item.Description)</p>
+    </div>
+}
